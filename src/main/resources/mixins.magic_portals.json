@@ -1,0 +1,15 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.sshcrack.magic_portals.mixin",
+  "refmap": "refmap.example.json",
+  "mixins": [
+    "MixinCustomHeatProvider",
+    "MixinHeatCondition",
+    "MixinMixingCauldronRecipeCategory",
+    "MixinMixingCauldronTile"
+  ],
+  "client": [
+    "MixinMixingCauldronRecipe$Serializer"
+  ],
+  "server": []
+}

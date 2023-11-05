@@ -1,0 +1,41 @@
+{
+  "type": "hexerei:mixingcauldron",
+  "liquid": {
+    "fluid": "magic_portals:phantom_power_fluid"
+  },
+  "ingredients": [
+    {
+      "item": "deeperdarker:warden_carapace"
+    },
+    {
+      "item": "apotheosis:vial_of_extraction"
+    },
+    {
+      "item": "apotheosis:vial_of_extraction"
+    },
+    {
+      "item": "biomancy:exotic_dust"
+    },
+    {
+      "item": "biomancy:exotic_dust"
+    },
+    {
+      "item": "hexerei:blood_bottle"
+    },
+    {
+      "item": "hexerei:blood_bottle"
+    },
+    {
+      "item": "eidolon:ender_calx"
+    }
+  ],
+  "output": {
+    "item": "magic_portals:time_space_warper",
+    "count": 2
+  },
+  "liquidOutput": {
+    "fluid": "magic_portals:phantom_power_fluid"
+  },
+  "fluidLevelsConsumed": 250,
+  "heatRequirement": "spirits"
+}

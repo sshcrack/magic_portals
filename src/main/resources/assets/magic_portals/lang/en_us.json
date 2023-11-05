@@ -1,0 +1,14 @@
+{
+  "item.magic_portals.time_space_warper": "Time Space Warper",
+  "item.magic_portals.phantom_power_bucket": "Phantoms' Power Bucket",
+  "item.magic_portals.resonating_orb": "Weird Resonating Orb",
+  "fluid_type.magic_portals.phantom_power_fluid": "Phantoms' Power",
+  "fluid.magic_portals.phantom_power_flowing": "Phantoms' Power",
+  "block.magic_portals.phantom_power": "Phantoms' Power",
+  "tooltip.magic_portals.spirit_heated": "Spirits",
+  "tooltip.magic_portals.recipe_spirit1": "The block below needs to",
+  "tooltip.magic_portals.recipe_spirit2": "be tagged as a spirit source.",
+  "tooltip.magic_portals.recipe_spirit3": "that block must be lit if it can be lit",
+  "tooltip.magic_portals.recipe_spirit4": "can be any of the cycled blocks",
+  "tooltip.magic_portals.recipe_spirit": "This recipe must be conjured with spirits"
+}
